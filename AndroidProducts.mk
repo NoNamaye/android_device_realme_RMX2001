@@ -15,4 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_RMX2001.mk
+    $(LOCAL_DIR)/lineage_RMX2001.mk \
+    $(LOCAL_DIR)/superior_RMX2001.mk
