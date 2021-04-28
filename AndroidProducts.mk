@@ -17,3 +17,13 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_RMX2001.mk \
     $(LOCAL_DIR)/superior_RMX2001.mk
+
+COMMON_LUNCH_CHOICES := \
+	lineage_RMX2001-userdebug \
+	lineage_RMX2001-user \
+	lineage_RMX2001-eng
+
+COMMON_LUNCH_CHOICES := \
+        superior_RMX2001-userdebug \
+        superior_RMX2001-user \
+        superior_RMX2001-eng
