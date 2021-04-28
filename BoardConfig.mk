@@ -25,3 +25,6 @@ TARGET_OTA_ASSERT_DEVICE := RMX2001,wasabi
 # Kernel
 TARGET_KERNEL_CONFIG := RMX2001_defconfig
 BOARD_PREBUILT_DTBOIMAGE := $(DEVICE_PATH)/prebuilt/dtbo.img
+
+# Gapps Build
+BUILD_WITH_GAPPS := true
